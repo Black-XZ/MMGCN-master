@@ -76,11 +76,13 @@ VIDRec/
 ## 环境依赖
 
 ```bash
-torch>=1.8.0
-numpy>=1.19.0
-pandas>=1.0.0
-pillow>=8.0.0
-tqdm>=4.60.0
+torch==2.9.1+cu126
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.17.1
+scikit-learn==1.8.0
+pillow==12.0.0
+tqdm==4.67.3
 ```
 
 ### 可选依赖（用于特征提取）
