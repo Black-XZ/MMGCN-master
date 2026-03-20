@@ -1,0 +1,18 @@
+# VIDRec-MMGCN 依赖包
+
+# 核心依赖
+torch>=1.8.0
+numpy>=1.19.0
+pandas>=1.0.0
+pillow>=8.0.0
+tqdm>=4.60.0
+scipy>=1.5.0
+
+# ============ 可选依赖（用于特征提取）============
+
+# 文本特征提取 (Sentence-BERT)
+# pip install sentence-transformers
+
+# 图像特征提取 (CLIP)
+# pip install ftfy regex tqdm
+# pip install git+https://github.com/openai/CLIP.git
