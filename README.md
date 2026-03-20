@@ -55,6 +55,24 @@ VIDRec/
     └── best_model.pt
 ```
 
+### 短视频特征预处理（文本 + 视频封面）
+
+![](presentation1.png)
+
+![](presentation2.png)
+
+### 训练
+
+![](presentation3.png)
+
+![](presentation4.png)
+
+### 评估
+
+![](presentation5.png)
+
+```
+
 ## 环境依赖
 
 ```bash
